@@ -1,0 +1,68 @@
+body {
+    background-image: url("SIVUSTONTAUSTA.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+}
+
+h2 {
+  
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+
+p {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;    
+}
+    .logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    }
+    h2 a {
+    text-decoration: none;
+    color: inherit;
+}
+.boxit{
+position: absolute;
+  top: 50%;
+  left:95%;
+  transform: translate(-50%, -50%);
+    
+    
+}
+
+p2 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;    
+}
+p3 {
+   
+ position: absolute;
+  top: 40%;
+  left: 5%;
+  text-align: left;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: x-large;
+}
